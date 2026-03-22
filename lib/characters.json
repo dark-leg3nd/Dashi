@@ -1,0 +1,34 @@
+{
+  "10292336": {
+    "name": "Blue Archive",
+    "tags": ["BA"],
+    "characters": [
+      {
+        "id": "815839",
+        "name": "Aru",
+        "gender": "Mujer",
+        "tags": ["aru_(blue_archive)"],
+        "value": 100
+      },
+      {
+        "id": "1",
+        "name": "Azusa Swimsuit",
+        "gender": "Mujer",
+        "tags": ["azusa_(swimsuit)_(blue_archive)"],
+        "value": 100
+      },
+      {
+        "id": "2",
+        "name": "Yuuka Pijama",
+        "gender": "Mujer",
+        "tags": ["yuuka_(pajamas)_(blue_archive)"],
+        "value": 100
+      },
+      {
+        "id": "3",
+        "name": "Serika Swimsuit",
+        "gender": "Mujer",
+        "tags": ["serika_(swimsuit)_(blue_archive)"],
+        "value": 100
+      }
+]
