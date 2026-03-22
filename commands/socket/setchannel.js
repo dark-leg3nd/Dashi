@@ -1,4 +1,4 @@
-/*export default {
+*/export default {
   command: ['setchannel', 'setbotchannel'],
   category: 'socket',
   run: async (client, m, args) => {
